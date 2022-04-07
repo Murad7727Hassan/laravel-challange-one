@@ -11,7 +11,7 @@
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
      <!-- main css  -->
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="../css/main.css">
 </head>
 <body>
     <!-- start header  -->
@@ -48,7 +48,7 @@
                     <span class="navbar-toggler-icon"></span>
                   </button>
                </form>
-              
+
               </div>
             </nav>
       </div>
@@ -58,7 +58,7 @@
     <!-- start content  -->
     <section class="content">
         <!-- strat slider  -->
-        
+
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -68,15 +68,15 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img src="images/projob.jpg" class="d-block w-100 img-h img-fluid" alt="...">
-             
+
             </div>
             <div class="carousel-item">
               <img src="images/porjob.jpg" class="d-block w-100 img-h img-fluid" alt="...">
-              
+
             </div>
             <div class="carousel-item">
               <img src="images/pro-job.jpg" class="d-block w-100 img-h img-fluid" alt="...">
-              
+
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -88,7 +88,7 @@
             <span class="visually-hidden">Next</span>
           </button>
         </div>
-        
+
         <!-- end slider  -->
 
         <!-- strat ads -->
@@ -109,7 +109,7 @@
                           </div>
                         </div>
                       </div>
-                     
+
                       <div class="col-md-3 mb-3 d-flex justify-content-center">
                         <div class="card" style="width: 16rem;">
                           <img src="images/comp10.jpg" class="card-img-top w-100" alt="..." style="border-radius: 0; padding: 0;margin: 0;">
@@ -158,7 +158,7 @@
                           </div>
                         </div>
                       </div>
-                     
+
                       <div class="col-md-3 mb-3 d-flex justify-content-center">
                         <div class="card" style="width: 16rem;">
                           <img src="images/comp12.png" class="card-img-top w-100" alt="..." style="border-radius: 0; padding: 0;margin: 0;">
@@ -195,7 +195,7 @@
                           </div>
                         </div>
                       </div>
-                    
+
                       <div class="row my-5 ">
                         <div class="btn-toolbar mb-3 text-center" role="toolbar" aria-label="Toolbar with button groups">
                           <div class="btn-group me-2 justify-content-center align-items-center" role="group" aria-label="First group">
@@ -207,7 +207,7 @@
                       </div>
                       </div>
                 </div>
-                
+
             </div>
             <div class="row my-4">
               <img src="images/inline.jpg" alt="" srcset="">
@@ -334,7 +334,7 @@
         </div>
       </div>
       <div class="row">
-       
+
         <div class="col-md-3    align-items-center d-flex
         flex-column">
         <h3 class="mb-3">Jobs</h3>
@@ -373,7 +373,7 @@
     <li><a href="">About services</a></li>
  </ul>
 </div>
-      
+
       </div>
     </section>
     <footer>
